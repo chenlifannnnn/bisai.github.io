@@ -1,13 +1,14 @@
-{
-	margin: 0;
-	padding: 0;
-} 
-html,body{
+
+body{
 	background: #4682B3;
+}
+
+.c1{
+	width: 300px;
+	height: 500px;
 	
-	padding: 0;
-	
-	
+	margin-left: 45%;
+	margin-top: 10%;
 }
 
 .div01{
@@ -15,8 +16,7 @@ html,body{
 	height: 450px;
 	background-color: #87CDFA;
 	text-align: center;
-	margin: 45%
-}
+	}
 .div01 img{
 	width: 75px;
 	height: 75px;
@@ -27,4 +27,4 @@ html,body{
 	width: 30px;
 	height: 30px;
 	border-radius: 50%;
-}
+} 
